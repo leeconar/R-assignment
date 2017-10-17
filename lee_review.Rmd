@@ -1,0 +1,7 @@
+---
+title: "lee_review.Rmd"
+output: html_document
+---
+
+#Review for R assignment
+The commands for loading the three necessary packages went off without a hitch, but reading in the files to R did not work, because they were not included in the directory. I moved copies of the files into the repository's main folder. From there, all of the commands up until the generation of files worked. However, these commands were bulkier than necessary, and lapply could have been used instead, to generate all of the files. Also, when arranging the file to sort ascending and descending, the "Position" column was not numeric, so the data isn't truly sorted in a highest to lowest fashion. The plots all looked good, but only plots 1 and 2 were present. Plot 3 (your choice of visualization) was not present. 
